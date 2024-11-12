@@ -127,7 +127,7 @@ Este endpoint permite obter as de várias campanhas.
 ## Endpoint: Obter listar uma unica campanha
 
 ### Método: `GET`
-### URL: `/api/v1/:id`
+### URL: `/api/v1/list/:id`
 
 ### Descrição
 Este endpoint permite obter dados de uma unica campanha. 
